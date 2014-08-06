@@ -21,6 +21,10 @@ class testing extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+    public function createNew_File()
+    {
+
+    }
 }
 
 /* End of file welcome.php */
